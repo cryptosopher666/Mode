@@ -14,7 +14,7 @@ int main(){
 	}
 	c=mode(b,a);
 	cout<<"Mode = "<<c;
-	
+	getch();
 	return 0;
 }
 
